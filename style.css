@@ -1,0 +1,16 @@
+#me {
+    width: 120px;
+    border-radius: 50%;
+}
+ul {
+    
+    display: inline-flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
